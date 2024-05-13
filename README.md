@@ -1,1 +1,1 @@
-# scoutin-project
+# scouting-project
